@@ -8,4 +8,4 @@ This paper presents how coordination of subjects’ choices and actions could be
 
 **Year of publication:** 2012
 
-**Keywords:**
+**Keywords:** behavioral economics, public goods, leadership, first mover, rationality
